@@ -6,3 +6,5 @@ Shraddha Khapra
 
 # Student 
 Renuka
+
+For practicing Git and GitHub 
